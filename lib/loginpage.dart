@@ -9,6 +9,7 @@ class LoginPage extends StatefulWidget {
   State<LoginPage> createState() => _MyHomePageState();
 }
 
+//string
 class _MyHomePageState extends State<LoginPage> {
   late String username;
   late String password;
